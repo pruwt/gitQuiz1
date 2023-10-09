@@ -1,2 +1,3 @@
 "Hello, Git!"
 "Hello Git from feature branch"
+"Hello! I'm from the second local repo, can you see me?"
